@@ -10,6 +10,11 @@ A Python package for analyzing and visualizing moleculaar files in molssi worksh
 This repository is currently under development. To do a development install, download this repository and type
 
 This package requires the following packages.
+
+Features should be developed on branches. To create and switch to a branch, use command 
+git checkout -b new_branch_name
+To switch back to an existing branch, use
+git checkout new_branch_name
 ### Copyright
 
 Copyright (c) 2021, Upeksha Dissanayake
