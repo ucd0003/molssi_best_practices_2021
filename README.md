@@ -9,6 +9,7 @@ A Python package for analyzing and visualizing moleculaar files in molssi worksh
 
 This repository is currently under development. To do a development install, download this repository and type
 
+This package requires the following packages.
 ### Copyright
 
 Copyright (c) 2021, Upeksha Dissanayake
